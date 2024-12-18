@@ -1,0 +1,4 @@
+repository "2D@Andro_A@cloud"
+  path "/"
+    br "/main"
+    co "/main"
